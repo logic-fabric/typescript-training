@@ -1,7 +1,7 @@
-/*  EXERCISE 1
-    ----------
-    TODO: Modify the code to add types to the variable declarations. 
-    The resulting JavaScript should look the same as the original example when you're done. */
+/* EXERCISE 1
+   ----------
+   TODO: Modify the code to add types to the variable declarations. 
+   The resulting JavaScript should look the same as the original example when you're done. */
 
 let firstName: string;
 let lastName: string;
